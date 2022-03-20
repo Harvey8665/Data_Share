@@ -25,3 +25,12 @@
 如出现`未作任何修改但编译出现错误或警告`，欢迎在该文件下方留言指正<br>
 或发送邮件至http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=bulijie233@vip.qq.com<br>
 
+## STM32CubeMX
+这些资料均来自于MOOC课程`基于STM32CubeMX和HAL驱动库的嵌入式系统设计`<br>课程地址为：https://www.icourse163.org/course/UESTC-1207429802<br>
+以下为该课程的部分公告<br>1、在老师的B站上发布了STM32CubeIDE的使用视频以及STM32的HAL库使用经验总结，会不定时更新视频和文档。<br>
+2、关于STM32F411核心板的设计，我们也在B站上发布了由立创EDA莫工设计的STM32F411核心板案例，欢迎大家观看。<br>
+3、老师的B站Up号：QiQiangUESTC<br>
+4、关于CubeMX软件更深入的学习，可以参考官方文档UM1718，文档可在意法半导体的官网上下载。<br>
+5、STM32CubeMX软件的下载地址：http://www.st.com/en/development-tools/stm32cubemx.html?sc=stm32cubemx<br>
+6、MDK-ARM软件的下载地址：http://www.keil.com/download/product/<br>
+7、在进行CubeMX软件学习之前，建议在桌面上新建一个名为CubeMX的文件夹，用于存放本书所有的例程代码。对于STM32微控制器的外设学习，可以再建立子文件夹：按照外设名建立，如GPIO、EXTI、TIMER、UART等。再次强调：CubeMX建立的工程必须存放在英文路径下
